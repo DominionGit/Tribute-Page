@@ -24,7 +24,7 @@ padding: 15px;
 
 }
 .contents{
-    background-color: ivory;
+    background-color: white;
     margin: 0px 135px;
     text-align: center;
     
@@ -35,6 +35,8 @@ padding: 15px;
 .font{
     font-family: sans-serif;
     max-width: 800px;
+    margin: 0 auto 50px auto;
+    text-align: center;
 }
 #center{
 text-align: center;
