@@ -1,0 +1,51 @@
+body{
+    background-color: rgba(148, 127, 127, 0.616);
+}
+ul  li {
+  text-align: center;
+  display: inline-block;
+  background-color: black;
+padding: 15px 14px;
+font-size: 15px;
+background-size: cover;
+
+
+}
+ul{
+    background-color: black;
+    margin-top: -10px;
+border-width: 20px;
+text-align: center;
+border-radius: 0px;
+padding: 15px;
+
+
+
+
+}
+.contents{
+    background-color: ivory;
+    margin: 0px 135px;
+    text-align: center;
+    
+}
+.large{
+   font-size: 50px; 
+}
+.font{
+    font-family: sans-serif;
+    max-width: 800px;
+}
+#center{
+text-align: center;
+}
+#head{
+   margin: 0 auto 0 auto ;
+ max-width: 300px ;
+}
+#id{
+    text-align: center;
+    margin: 0 auto 0 auto;
+    max-width: 600px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
